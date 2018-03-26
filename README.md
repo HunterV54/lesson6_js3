@@ -4,19 +4,18 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+March 26 2018
 
 ### Student Name:  
-(First and Last Name)
+Hunter Vaughan
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+Photo gallery in java script 
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://ide.c9.io/huntervaughan/vaughan_lesson6_js3
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. calling apon diffrent elements 
+2. changing the screen without reloading the screen 
+3. adding buttons 
